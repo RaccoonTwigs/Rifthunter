@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "rifthunter",
+    "name": "Rift Hunter",
+    "authors": [
+        "Raccoon"
+    ],
+    "description": "Destroy Rifts while wearing the Temporal Amulet",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": ""
+    }
+}
